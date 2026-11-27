@@ -1,52 +1,7 @@
 import { useState, type ReactNode } from 'react';
 import { IconGallery } from './IconGallery.js';
 import { UiIcon } from '../src/UiIcon.js';
-import {
-  Article,
-  BackToTop,
-  BlogEntry,
-  BlogList,
-  BrandMark,
-  BreadcrumbItem,
-  Breadcrumbs,
-  Button,
-  CodeBlock,
-  ContentNote,
-  ColorSwatch,
-  colorGroups,
-  CopyButton,
-  DemoFrame,
-  DestinationLink,
-  DestinationList,
-  Feedback,
-  FeatureCard,
-  FeatureList,
-  Footer,
-  GroupToggle,
-  Header,
-  IconButton,
-  Icon,
-  Keycap,
-  Link,
-  NavItem,
-  ReadingLinks,
-  SearchDialog,
-  SearchField,
-  SearchTrigger,
-  Section,
-  SectionHeading,
-  Sidebar,
-  SidebarResizeHandle,
-  SiteNavigation,
-  SkipLink,
-  SourceLink,
-  TableOfContents,
-  TocLink,
-  SidebarGroup,
-  type DocSection,
-  type NavGroup,
-  type NavLink,
-} from '../src/index.js';
+import { Article, BackToTop, BlogEntry, BlogList, BrandMark, BreadcrumbItem, Breadcrumbs, Button, CodeBlock, ContentNote, ColorSwatch, colorGroups, CopyButton, DemoFrame, DestinationLink, DestinationList, Feedback, FeatureCard, FeatureList, Footer, GroupToggle, Header, IconButton, Keycap, Link, NavItem, ReadingLinks, SearchDialog, SearchField, SearchTrigger, Section, SectionHeading, Sidebar, SidebarResizeHandle, SiteNavigation, SkipLink, SourceLink, TableOfContents, TocLink, SidebarGroup, type DocSection, type NavGroup, type NavLink } from '../src/index.js';
 import './gallery.css';
 import '../src/website.css';
 
