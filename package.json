@@ -1,6 +1,6 @@
 {
   "name": "@searsuite/sear-components",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "description": "Composable, SSR-compatible React components for SearSuite documentation",
   "type": "module",
